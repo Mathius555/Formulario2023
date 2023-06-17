@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.28",
+        "laravel/sanctum": "^2.15"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    }
+}
