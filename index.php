@@ -1,7 +1,8 @@
 
 <?php 
 require_once "module/usuario.php";
-//Este codigo es la API//
+//Este codigo es la API   http://localhost/lp2/Formulario2023/index.php//
+
 
 
 switch($_SERVER ['REQUEST_METHOD']){
